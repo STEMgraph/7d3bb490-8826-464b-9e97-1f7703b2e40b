@@ -108,3 +108,5 @@ git remote prune upstream
 Keeping your fork synchronized with upstream is more than a maintenance task — it’s a sign of professionalism. It shows you understand the evolving nature of software, value the work of others, and take care to integrate changes cleanly. Doing this regularly avoids frustration, merge conflicts, and wasted effort.
 
 In collaborative environments, the phrase *“please rebase or sync your fork”* is very common — and now, you know exactly what to do.
+Kleine Änderung für PP5. Hallo ich ändere mal etwas. Ich studiere an der THGA.
+Ich studiere an der THGA.
