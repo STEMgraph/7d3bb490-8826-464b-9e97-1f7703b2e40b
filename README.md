@@ -1,6 +1,7 @@
 <!---
 {
-  "depends_on": ["https://github.com/STEMgraph/60b25ba1-4dd1-4ab9-a0b4-95408b08f6dc"],
+  "id": "7d3bb490-8826-464b-9e97-1f7703b2e40b",
+  "depends_on": ["60b25ba1-4dd1-4ab9-a0b4-95408b08f6dc"],
   "author": ["Tabea Röthemeyer","Stephan Bökelmann"],
   "first_used": "2025-04-03",
   "keywords": ["git", "github", "fork", "sync", "upstream"]
